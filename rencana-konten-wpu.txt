@@ -3,6 +3,7 @@ Rencana konten WPU
  *ES6
  *Framework JS
   ^Vve
+  ^React
 -Dasar struktur data
 -PHP Framework
  *Laravel
